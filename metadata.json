@@ -1,0 +1,6 @@
+{
+  "name": "HomeHelp – Local Household Services",
+  "description": "Find and book trusted, verified local professionals for plumbing, electrical repairs, cleaning, carpentry, painting, appliance repair, gardening, and AC servicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
